@@ -1,0 +1,3 @@
+local-inference-finalfusion/userPreferences.*
+local-inference-finalfusion/Project/DerivedData/*
+local-inference-finalfusion/Data/*
